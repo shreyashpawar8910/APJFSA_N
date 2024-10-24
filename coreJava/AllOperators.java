@@ -49,3 +49,18 @@ public class AllOperators {
 
 }
 
+
+/*
+   Output : 
+
+	Integer : 10
+	Short : 40
+	Long : 50
+	Byte : 4
+	Float : 10.5
+	Double : 14.144
+	Boolean : true
+	Character : S
+	String : Shreyash
+
+ */
