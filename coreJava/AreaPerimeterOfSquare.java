@@ -36,3 +36,14 @@ public class AreaPerimeterOfSquare {
 	}
 
 }
+
+
+
+/*
+ 
+  Output : 
+  
+  Area of Square : 25.0
+  Perimeter of Square : 20.0
+  
+*/ 
