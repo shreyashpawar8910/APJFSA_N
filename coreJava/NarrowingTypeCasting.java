@@ -32,5 +32,17 @@ public class NarrowingTypeCasting {
 		obj.TypeCasting();
 
 	}
-
 }
+
+
+/*
+ 
+  Output : 
+  
+  Before Type casting Double : 45.0
+  Before Type casting Long : 90
+  After Type casting Double : 45
+  After Type casting Long : 90
+
+  
+*/ 
