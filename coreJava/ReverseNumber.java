@@ -36,7 +36,7 @@ public class ReverseNumber {
    Output : 
    
     Enter Number : 
-	123
-	Reverse number is : 321
+    123
+    Reverse number is : 321
 
 */
