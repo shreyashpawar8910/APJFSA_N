@@ -42,3 +42,19 @@ public class LargerNumber {
 	}
 
 }
+
+
+/*
+ 
+  Output : 
+  
+	Enter First Number : 
+	10
+	Enter Second Number : 
+	20
+	Enter Third Number : 
+	50
+	50 is largest number
+
+ 
+*/
